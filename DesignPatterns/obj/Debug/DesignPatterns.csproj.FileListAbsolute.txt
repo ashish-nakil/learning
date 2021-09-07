@@ -1,0 +1,20 @@
+C:\Users\ashishn\source\repos\ConsoleApp3\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+C:\Users\ashishn\source\repos\ConsoleApp3\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\Users\ashishn\source\repos\ConsoleApp3\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Users\ashishn\source\repos\ConsoleApp3\DesignPatterns\obj\Debug\DesignPatterns.csprojAssemblyReference.cache
+C:\Users\ashishn\source\repos\ConsoleApp3\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\Users\ashishn\source\repos\ConsoleApp3\DesignPatterns\obj\Debug\DesignPatterns.pdb
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\DesignPatterns\obj\Debug\DesignPatterns.csprojAssemblyReference.cache
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\DesignPatterns\obj\Debug\DesignPatterns.pdb
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\DesignPatterns\bin\Debug\DesignPatterns.pdb
+D:\Learning\Projects\Common App\ConsoleApp3\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+D:\Learning\Projects\Common App\ConsoleApp3\DesignPatterns\bin\Debug\DesignPatterns.exe
+D:\Learning\Projects\Common App\ConsoleApp3\DesignPatterns\bin\Debug\DesignPatterns.pdb
+D:\Learning\Projects\Common App\ConsoleApp3\DesignPatterns\obj\Debug\DesignPatterns.csproj.AssemblyReference.cache
+D:\Learning\Projects\Common App\ConsoleApp3\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+D:\Learning\Projects\Common App\ConsoleApp3\DesignPatterns\obj\Debug\DesignPatterns.exe
+D:\Learning\Projects\Common App\ConsoleApp3\DesignPatterns\obj\Debug\DesignPatterns.pdb

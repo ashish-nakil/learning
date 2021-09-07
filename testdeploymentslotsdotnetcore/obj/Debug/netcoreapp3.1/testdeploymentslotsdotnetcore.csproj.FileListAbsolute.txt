@@ -1,0 +1,111 @@
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\appsettings.json
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.exe
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.deps.json
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.runtimeconfig.json
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.runtimeconfig.dev.json
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.dll
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.pdb
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.Views.dll
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.Views.pdb
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.csprojAssemblyReference.cache
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.AssemblyInfoInputs.cache
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.AssemblyInfo.cs
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.csproj.CoreCompileInputs.cache
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.MvcApplicationPartsAssemblyInfo.cache
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.RazorAssemblyInfo.cache
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.RazorAssemblyInfo.cs
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\staticwebassets\testdeploymentslotsdotnetcore.StaticWebAssets.Manifest.cache
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\staticwebassets\testdeploymentslotsdotnetcore.StaticWebAssets.xml
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\scopedcss\bundle\testdeploymentslotsdotnetcore.styles.css
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.TagHelpers.input.cache
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.TagHelpers.output.cache
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.RazorCoreGenerate.cache
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.RazorTargetAssemblyInfo.cache
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.RazorTargetAssemblyInfo.cs
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.Views.pdb
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.dll
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.pdb
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.genruntimeconfig.cache
+E:\ashh\repos\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.csproj.CopyComplete
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.exe
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.deps.json
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.runtimeconfig.json
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.runtimeconfig.dev.json
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.dll
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.pdb
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.Views.dll
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.Views.pdb
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.csprojAssemblyReference.cache
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.AssemblyInfoInputs.cache
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.AssemblyInfo.cs
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.csproj.CoreCompileInputs.cache
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.MvcApplicationPartsAssemblyInfo.cache
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.RazorAssemblyInfo.cache
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.RazorAssemblyInfo.cs
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\staticwebassets\testdeploymentslotsdotnetcore.StaticWebAssets.Manifest.cache
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\staticwebassets\testdeploymentslotsdotnetcore.StaticWebAssets.xml
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\scopedcss\bundle\testdeploymentslotsdotnetcore.styles.css
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.TagHelpers.input.cache
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.TagHelpers.output.cache
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.RazorCoreGenerate.cache
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.RazorTargetAssemblyInfo.cache
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.RazorTargetAssemblyInfo.cs
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.Views.pdb
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.dll
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.pdb
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.genruntimeconfig.cache
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.csproj.CopyComplete
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.exe
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.deps.json
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.runtimeconfig.json
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.runtimeconfig.dev.json
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.dll
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.pdb
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.Views.dll
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\bin\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.Views.pdb
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.csproj.AssemblyReference.cache
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.AssemblyInfoInputs.cache
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.AssemblyInfo.cs
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.csproj.CoreCompileInputs.cache
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.MvcApplicationPartsAssemblyInfo.cache
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.RazorAssemblyInfo.cache
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.RazorAssemblyInfo.cs
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\staticwebassets\testdeploymentslotsdotnetcore.StaticWebAssets.Manifest.cache
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\staticwebassets\testdeploymentslotsdotnetcore.StaticWebAssets.xml
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\scopedcss\bundle\testdeploymentslotsdotnetcore.styles.css
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.TagHelpers.input.cache
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.TagHelpers.output.cache
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.RazorCoreGenerate.cache
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.RazorTargetAssemblyInfo.cache
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.RazorTargetAssemblyInfo.cs
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.Views.pdb
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.dll
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.pdb
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.genruntimeconfig.cache
+D:\Learning\Projects\Common App\ConsoleApp3\testdeploymentslotsdotnetcore\obj\Debug\netcoreapp3.1\testdeploymentslotsdotnetcore.csproj.CopyComplete

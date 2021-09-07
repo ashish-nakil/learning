@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IxpQvZ/MjVrQiL9RdzHcufFBSIP6AQkbiOv3fGUazZ3llGhYyH/YtT12p/d8huc4woZPWrV2xxZcsSmQ2Kk4/g==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\Projects\\Common App\\ConsoleApp3\\MongoDB\\MongoDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ashis\\.nuget\\packages\\mongodb.bson\\2.13.1\\mongodb.bson.2.13.1.nupkg.sha512",
+    "C:\\Users\\ashis\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

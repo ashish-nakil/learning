@@ -1,0 +1,94 @@
+C:\Users\ashishn\source\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Azure Services.exe
+C:\Users\ashishn\source\repos\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.AssemblyInfoInputs.cache
+C:\Users\ashishn\source\repos\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.AssemblyInfo.cs
+C:\Users\ashishn\source\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Azure Services.deps.json
+C:\Users\ashishn\source\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Azure Services.runtimeconfig.json
+C:\Users\ashishn\source\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Azure Services.runtimeconfig.dev.json
+C:\Users\ashishn\source\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Azure Services.dll
+C:\Users\ashishn\source\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Azure Services.pdb
+C:\Users\ashishn\source\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\ashishn\source\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\Users\ashishn\source\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\ashishn\source\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\ashishn\source\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\ashishn\source\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ashishn\source\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ashishn\source\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ashishn\source\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ashishn\source\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ashishn\source\repos\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.csproj.CopyComplete
+C:\Users\ashishn\source\repos\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.dll
+C:\Users\ashishn\source\repos\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.pdb
+C:\Users\ashishn\source\repos\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.csprojAssemblyReference.cache
+E:\ashh\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Azure Services.exe
+E:\ashh\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Azure Services.deps.json
+E:\ashh\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Azure Services.runtimeconfig.json
+E:\ashh\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Azure Services.runtimeconfig.dev.json
+E:\ashh\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Azure Services.dll
+E:\ashh\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Azure Services.pdb
+E:\ashh\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+E:\ashh\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+E:\ashh\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+E:\ashh\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+E:\ashh\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\ashh\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ashh\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\ashh\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\ashh\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\ashh\repos\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\ashh\repos\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.csprojAssemblyReference.cache
+E:\ashh\repos\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.AssemblyInfoInputs.cache
+E:\ashh\repos\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.AssemblyInfo.cs
+E:\ashh\repos\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.csproj.CoreCompileInputs.cache
+E:\ashh\repos\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.csproj.CopyComplete
+E:\ashh\repos\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.dll
+E:\ashh\repos\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.pdb
+E:\ashh\repos\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.genruntimeconfig.cache
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Azure Services.exe
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Azure Services.deps.json
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Azure Services.runtimeconfig.json
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Azure Services.runtimeconfig.dev.json
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Azure Services.dll
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Azure Services.pdb
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.csprojAssemblyReference.cache
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.AssemblyInfoInputs.cache
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.AssemblyInfo.cs
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.csproj.CoreCompileInputs.cache
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.csproj.CopyComplete
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.dll
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.pdb
+C:\Ashish\Learnings\Sample Project\ConsoleApp3\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.genruntimeconfig.cache
+D:\Learning\Projects\Common App\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Azure Services.exe
+D:\Learning\Projects\Common App\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Azure Services.deps.json
+D:\Learning\Projects\Common App\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Azure Services.runtimeconfig.json
+D:\Learning\Projects\Common App\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Azure Services.runtimeconfig.dev.json
+D:\Learning\Projects\Common App\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Azure Services.dll
+D:\Learning\Projects\Common App\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Azure Services.pdb
+D:\Learning\Projects\Common App\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+D:\Learning\Projects\Common App\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+D:\Learning\Projects\Common App\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Learning\Projects\Common App\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\Learning\Projects\Common App\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Learning\Projects\Common App\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Learning\Projects\Common App\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Learning\Projects\Common App\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Learning\Projects\Common App\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Learning\Projects\Common App\ConsoleApp3\Azure Services\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Learning\Projects\Common App\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.csproj.AssemblyReference.cache
+D:\Learning\Projects\Common App\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.AssemblyInfoInputs.cache
+D:\Learning\Projects\Common App\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.AssemblyInfo.cs
+D:\Learning\Projects\Common App\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.csproj.CoreCompileInputs.cache
+D:\Learning\Projects\Common App\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.csproj.CopyComplete
+D:\Learning\Projects\Common App\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.dll
+D:\Learning\Projects\Common App\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.pdb
+D:\Learning\Projects\Common App\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\Azure Services.genruntimeconfig.cache

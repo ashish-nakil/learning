@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hnKT7M+Bzi/AFLfYpzwstFgPrqYQbkBw426nore5LytORewyjQBTLqvlE0GjH27q4VJycovRT9PXC/FJyhCnsw==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\Projects\\Common App\\ConsoleApp3\\Faces.API.Tests\\Faces.API.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ashis\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\ashis\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\ashis\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\ashis\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

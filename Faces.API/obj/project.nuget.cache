@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "23gV3jqU4VSLqFVMGF2k0QeHBlGNJNZuwJmpbU7RS0KMHkBB8o1lknol++cGQEh/sLrYv3NUXkgGd7AantPUWQ==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\Projects\\Common App\\ConsoleApp3\\Faces.API\\Faces.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ashis\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\ashis\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\ashis\\.nuget\\packages\\opencvsharp4\\4.5.1.20210210\\opencvsharp4.4.5.1.20210210.nupkg.sha512",
+    "C:\\Users\\ashis\\.nuget\\packages\\opencvsharp4.runtime.win\\4.5.1.20210210\\opencvsharp4.runtime.win.4.5.1.20210210.nupkg.sha512",
+    "C:\\Users\\ashis\\.nuget\\packages\\opencvsharp4.windows\\4.5.1.20210210\\opencvsharp4.windows.4.5.1.20210210.nupkg.sha512",
+    "C:\\Users\\ashis\\.nuget\\packages\\opencvsharp4.wpfextensions\\4.5.1.20210210\\opencvsharp4.wpfextensions.4.5.1.20210210.nupkg.sha512",
+    "C:\\Users\\ashis\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\ashis\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\ashis\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

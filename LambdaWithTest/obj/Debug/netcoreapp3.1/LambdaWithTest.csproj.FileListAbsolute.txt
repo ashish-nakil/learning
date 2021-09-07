@@ -1,0 +1,15 @@
+D:\Learning\Projects\Common App\ConsoleApp3\LambdaWithTest\bin\Debug\netcoreapp3.1\LambdaWithTest.deps.json
+D:\Learning\Projects\Common App\ConsoleApp3\LambdaWithTest\bin\Debug\netcoreapp3.1\LambdaWithTest.runtimeconfig.json
+D:\Learning\Projects\Common App\ConsoleApp3\LambdaWithTest\bin\Debug\netcoreapp3.1\LambdaWithTest.runtimeconfig.dev.json
+D:\Learning\Projects\Common App\ConsoleApp3\LambdaWithTest\bin\Debug\netcoreapp3.1\LambdaWithTest.dll
+D:\Learning\Projects\Common App\ConsoleApp3\LambdaWithTest\bin\Debug\netcoreapp3.1\LambdaWithTest.pdb
+D:\Learning\Projects\Common App\ConsoleApp3\LambdaWithTest\bin\Debug\netcoreapp3.1\Amazon.Lambda.Core.dll
+D:\Learning\Projects\Common App\ConsoleApp3\LambdaWithTest\bin\Debug\netcoreapp3.1\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\Learning\Projects\Common App\ConsoleApp3\LambdaWithTest\obj\Debug\netcoreapp3.1\LambdaWithTest.csproj.AssemblyReference.cache
+D:\Learning\Projects\Common App\ConsoleApp3\LambdaWithTest\obj\Debug\netcoreapp3.1\LambdaWithTest.AssemblyInfoInputs.cache
+D:\Learning\Projects\Common App\ConsoleApp3\LambdaWithTest\obj\Debug\netcoreapp3.1\LambdaWithTest.AssemblyInfo.cs
+D:\Learning\Projects\Common App\ConsoleApp3\LambdaWithTest\obj\Debug\netcoreapp3.1\LambdaWithTest.csproj.CoreCompileInputs.cache
+D:\Learning\Projects\Common App\ConsoleApp3\LambdaWithTest\obj\Debug\netcoreapp3.1\LambdaWithTest.csproj.CopyComplete
+D:\Learning\Projects\Common App\ConsoleApp3\LambdaWithTest\obj\Debug\netcoreapp3.1\LambdaWithTest.dll
+D:\Learning\Projects\Common App\ConsoleApp3\LambdaWithTest\obj\Debug\netcoreapp3.1\LambdaWithTest.pdb
+D:\Learning\Projects\Common App\ConsoleApp3\LambdaWithTest\obj\Debug\netcoreapp3.1\LambdaWithTest.genruntimeconfig.cache

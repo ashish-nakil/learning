@@ -1,0 +1,2 @@
+C:\Users\ashishn\source\repos\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\AzureServices.AssemblyInfoInputs.cache
+C:\Users\ashishn\source\repos\ConsoleApp3\Azure Services\obj\Debug\netcoreapp3.1\AzureServices.AssemblyInfo.cs
